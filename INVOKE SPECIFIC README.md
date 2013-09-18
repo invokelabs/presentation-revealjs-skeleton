@@ -22,6 +22,10 @@ Additional CSS Classes:
 	- class="white-text"
 - default font color is set to black
 
+Assets/Images Folder:
+
+- located under css/theme
+
 
 
 
